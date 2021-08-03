@@ -1,0 +1,17 @@
+{
+  //"0001": "Email Already Exists"
+  "errors":[
+    {
+      "ErrorCode": 1,
+      "Description": "Email already exists"
+    },
+    {
+      "ErrorCode": 2,
+      "Description": "Email doesn't exist"
+    },
+    {
+      "ErrorCode": 2,
+      "Description": "Email and password doesn't match"
+    }
+  ]
+}
